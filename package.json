@@ -1,0 +1,28 @@
+{
+  "name": "project_fideligard_spa",
+  "version": "1.0.0",
+  "description": "Buy low, sell high.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicoasp/project_fideligard_spa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicoasp/project_fideligard_spa/issues"
+  },
+  "homepage": "https://github.com/nicoasp/project_fideligard_spa#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "es6-promise": "^4.1.0",
+    "express": "^4.15.3",
+    "isomorphic-fetch": "^2.2.1",
+    "moment": "^2.18.1"
+  }
+}
